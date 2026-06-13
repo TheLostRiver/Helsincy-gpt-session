@@ -2,10 +2,6 @@
 
 纯前端单页面工具，用来把 ChatGPT Web 登录 session JSON 转换成 CPA、sub2api、Cockpit Tools、9router、AxonHub 或 Codex-Manager 可导入 JSON。
 
-## 在线使用
-
-### [**》》 点我直接使用 《《**](https://gtxx3600.github.io/GPTSession2CPAandSub2API/)
-
 ## 使用提示
 
 Plus 号可以用此方式导入中转站使用；Free 号的 access token 不能用于调用接口。
